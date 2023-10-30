@@ -9,7 +9,7 @@ require (
 	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-gonic/gin v1.7.1
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/google/gopacket v1.1.19
 	github.com/gorilla/websocket v1.5.0
 	github.com/json-iterator/go v1.1.12
@@ -30,9 +30,9 @@ require (
 	github.com/v2rayA/v2rayA-lib4 v0.0.0-20220912152138-f38eb344419a
 	github.com/vearutop/statigz v1.1.7
 	go.etcd.io/bbolt v1.3.6
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
-	google.golang.org/grpc v1.48.0
+	golang.org/x/net v0.9.0
+	golang.org/x/sys v0.7.0
+	google.golang.org/grpc v1.56.3
 )
 
 require (
@@ -65,9 +65,9 @@ require (
 	go4.org/intern v0.0.0-20211027215823-ae77deb06f29 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20220617031537-928513b29760 // indirect
 	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064 // indirect
-	golang.org/x/text v0.3.7 // indirect
-	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	golang.org/x/text v0.9.0 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	inet.af/netaddr v0.0.0-20211027220019-c74959edd3b6 // indirect
 )
